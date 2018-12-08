@@ -1,6 +1,6 @@
-# Vanilla JS Github jobs app
+# Vanilla JS Show Search app
 
-App build with vanilla javascript and bulma.
+App build with vanilla javascript and bulma.Data provided by [Episodate](https://www.episodate.com/).
 
 ## Getting Started
 
